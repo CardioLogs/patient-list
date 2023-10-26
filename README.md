@@ -10,7 +10,7 @@ During this ~2h session, we will evalutate your skills on multiple aspects! It's
 
 ## Instructions
 
-We are trying to build the E2Es pipeline to fully cover the application and avoid regressions for futur developments. We expect you to write E2Es tests to cover all the application features and edge cases thay may be found. 
+We are trying to build the E2Es pipeline to fully cover the application and avoid regressions for futur developments. We expect you to write E2Es tests to cover all the application features and edge cases that may be found. 
 
 In this application, you should be able to do : 
 - Create new patient, edit and remove patients
