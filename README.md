@@ -10,7 +10,7 @@ During this ~2h session, we will evalutate your skills on multiple aspects! It's
 
 ## Instructions
 
-We are trying to build the E2Es pipeline to fully cover the application and avoid regressions for futur developments. We expect you to write E2Es tests to cover all the application features and edge cases thay may be found. 
+We are trying to build the E2E pipeline to fully cover the application and avoid regressions for future developments. We expect you to write E2E tests to cover all the application features and edge cases that may be found. 
 
 In this application, you should be able to do : 
 - Create new patient, edit and remove patients
@@ -35,7 +35,7 @@ You can choose any of those frameworks, but we expect a clean file structure on 
 
 If you are using a private repository on Github, add us as collaborator ([`baptooo`](https://github.com/baptooo), [`mathieu-schnoor`](https://github.com/mathieu-schnoor) , [`gserrell`](https://github.com/gserrell)) so we can have access to your homework.
 
-Otheriwse, share us your code in a zip file ( using this git archive --format zip --output /full/path/to/zipfile.zip master ).
+Otheriwse, share us your code in a zip file ( using the command `git archive --format zip --output /full/path/to/zipfile.zip master` ).
 ## Install
 
 `yarn`
